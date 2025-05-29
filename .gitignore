@@ -29,7 +29,7 @@ secrets.json
 #########################
 *.log
 logs/
-*.db
+#*.db
 *.db-shm
 *.db-wal
 *.sqlite
