@@ -230,12 +230,3 @@ Feature-rich interface to manage:
     <td><img src="https://actvkmglkippzhzwzuzo.supabase.co/storage/v1/object/public/product_screenshots/31z0zutaq6a_1746471316416.png" width="300"/></td>
   </tr>
 </table>
-
-
-## 📦 Resources
-
-- [Project Documentation](docs/)
-- [Development Setup Guide](docs/setup.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
-
-For detailed information, please visit our [**Wiki page**](https://github.com/monir-devx/debugger-squad/wiki).
